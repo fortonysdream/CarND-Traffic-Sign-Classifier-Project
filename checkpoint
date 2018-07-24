@@ -1,2 +1,2 @@
-model_checkpoint_path: "new_traffic.ckpt"
-all_model_checkpoint_paths: "new_traffic.ckpt"
+model_checkpoint_path: "traffic.ckpt"
+all_model_checkpoint_paths: "traffic.ckpt"
